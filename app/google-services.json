@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91762137843",
+    "project_id": "bitebox-bed2c",
+    "storage_bucket": "bitebox-bed2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91762137843:android:5d6e377bbac59530afb586",
+        "android_client_info": {
+          "package_name": "com.thrq.bitebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsmFqcQp6nn5Gh0BneZncBpym1mEFkt2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91762137843:android:2748cb364d146480afb586",
+        "android_client_info": {
+          "package_name": "com.thrq.biteboxadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsmFqcQp6nn5Gh0BneZncBpym1mEFkt2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
