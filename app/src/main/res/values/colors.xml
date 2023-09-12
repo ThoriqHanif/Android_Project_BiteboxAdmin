@@ -6,4 +6,32 @@
     <color name="colorPrimary">#4226CA</color>
     <color name="colorSecondary">#4226CA</color>
 
+
+        <color name="primary">#161617</color>
+        <color name="background">#F7F7FA</color>
+        <color name="card_background">#FFFFFF</color>
+        <color name="card_sc">#E7E6E6</color>
+        <color name="card_dark">#272829</color>
+        <color name="primary_text">#47484B</color>
+        <color name="name_text">#4FCCA3</color>
+        <color name="text_color">#272729</color>
+        <color name="bg_text">#47484B</color>
+        <color name="second_text">#BFBFBF</color>
+        <color name="button">#4FCCA3</color>
+        <color name="dash_item_1">#2CC2EA</color>
+        <color name="dash_item_2">#4DE9C9</color>
+        <color name="dash_item_3">#72A4FF</color>
+        <color name="dash_item_4">#8872FF</color>
+
+
+        <!--    <color name="mainDark">#0d071f</color>-->
+        <!--    <color name="secondDark">#252444</color>-->
+        <!--    <color name="thirdDark">#9e94eb</color>-->
+        <!--    <color name="textColorDark">#ffffff</color>-->
+
+        <!--    <color name="mainLight">#f7f8fa</color>-->
+        <!--    <color name="secondLight">#c9cdd9</color>-->
+        <!--    <color name="thirdLight">#9e94eb</color>-->
+        <!--    <color name="textColorLight">#000000</color>-->
+
 </resources>
